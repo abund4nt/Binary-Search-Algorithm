@@ -4,7 +4,4 @@ Implementation of the binary search algorithm in Python, this algorithm is only 
 
 ![](https://i.imgur.com/TbKtkeS.jpeg)
 
-For further understanding read the following resources.
-
-https://www.programiz.com/dsa/binary-search
-https://es.wikipedia.org/wiki/B%C3%BAsqueda_binaria
+For further understanding read the following [resources](https://es.wikipedia.org/wiki/B%C3%BAsqueda_binaria).
